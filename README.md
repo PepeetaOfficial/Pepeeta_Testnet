@@ -7,3 +7,4 @@ La seguente è la documentazione (ancora in fase di completamento) del progetto 
 4. [Aggiunta di una blocco alla chain](aggiunta_blocco.md)
 5. [Interrogazione del nodo](interrogazione_nodo.md)
 6. [Collegamento di un adapter](collegamento_adapter.md)
+7. [Collegamento alla testnet](aggancio_testnet.md)
